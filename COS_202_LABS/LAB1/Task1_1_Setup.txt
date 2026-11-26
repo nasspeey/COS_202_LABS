@@ -1,0 +1,14 @@
+TASK 1.1 - SET UP (record on your own computer)
+1. Install a JDK (e.g. Temurin / Oracle JDK 17 or 21) and an IDE (IntelliJ IDEA, Eclipse, NetBeans or VS Code).
+2. Open a terminal and run:
+      java -version
+      javac -version
+3. Write the version numbers you see below:
+      java  version : ______________
+      javac version : ______________
+(Example from the machine used to test these programs: java 21.0.13, javac 21.0.13)
+
+TASK 1.2 - Compile and run Hello from the terminal:
+      javac Task1_2_Hello.java
+      java Task1_2_Hello
+   Then open it in your IDE and click Run.
